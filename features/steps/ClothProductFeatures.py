@@ -1,6 +1,7 @@
 from behave import *
 from features.pageobjects.product import Product
 from features.pageobjects.login import login
+from features.pageobjects.search import Search
 
 @given(u'we navigate to Flipkart website')
 def step_impl(context):
@@ -33,13 +34,13 @@ def step_impl(context):
 
 @then(u'type "{search}" in searchbox')
 def step_impl(context,search):
-    context.pro = Product(context.driver)
-    context.pro.searchbox(search)
+    context.s = Search(context.driver)
+    context.s.searchbox(search)
 
 
 @then(u'click on search button')
 def step_impl(context):
-    context.pro.clicksearch()
+    context.s.clicksearch()
 
 
 @then(u'click on Top image')

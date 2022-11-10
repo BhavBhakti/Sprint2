@@ -21,5 +21,5 @@ Feature: Flipkart Login
     Examples:
        | numberr | passwordd | search | pincode |
        | 8867181165 | Bhavika@123 | Tops | 560032 |
-       | 8867181165 | Bhavika@123 | T-shirts | 560032 |
-       | 8867181165 | Bhavika@123 | women jackets | 56031 |
+#       | 8867181165 | Bhavika@123 | T-shirts | 560032 |
+#       | 8867181165 | Bhavika@123 | women jackets | 56031 |
