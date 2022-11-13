@@ -47,9 +47,8 @@ def after_scenario(context, driver):
 
 
 # def before_feature(context, feature):
-#     if 'test-data-from-excel' in feature.tags:  # >>> you can have this check on feature.name instead of tag
-#         path_to_file = 'C:\\Users\\Prateek\\PycharmProjects\\Sprint2\\Excel\\data1.xlsx'
-#         df = pd.read_excel(path_to_file)
+#     if 'test-data-from-excel' in feature.name:  # >>> you can have this check on feature.name instead of tag
+#         df = pd.read_excel('C:\\Users\\Prateek\\PycharmProjects\\Sprint2\\Excel\\data.xlsx')
 #         example = next(sc.examples[0] for sc in feature.scenarios if sc.name == 'Browser Test') # >>> find the first examples object for scenario with given name
 #         test_table = example.table
 #         for row in df.itertuples(index=False):

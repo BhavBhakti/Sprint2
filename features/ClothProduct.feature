@@ -8,14 +8,14 @@ Feature: flipkart
       And we click on login button
       Then type "<search>" in searchbox
       And click on search button
-      Then click on Top image
+      Then click on product image
       And switch to window
       Then click on all front-back images
       Then Enter "<pincode>"
       And click on check link
       Then click on all colors
       Then click on all sizes
-      Then click on plus sign
+      Then click on product details
       Then click on all addtocart
       Then verify placeorder button
       Examples:

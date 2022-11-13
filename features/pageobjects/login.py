@@ -17,7 +17,7 @@ class login(BaseSettingsPage):
     def clickclose(self):
         self.DynamicImplicitWait(40)
         self.ClickButton("closeloginwindow_XPATH")
-        time.sleep(5)
+        time.sleep(1)
 
     def clickloginLink(self):
         self.ClickLinks("loginLink_XPATH")
