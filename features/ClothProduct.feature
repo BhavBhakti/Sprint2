@@ -1,5 +1,5 @@
 Feature: flipkart
-   Scenario Outline: Browser Test
+   Scenario Outline: Cloth Product Test
       Given we navigate to Flipkart website
       And close the window
       And we click on Login Button
@@ -22,4 +22,3 @@ Feature: flipkart
          | numberr | passwordd | search | pincode |
          | 8867181165 | Bhavika@123 | Tops | 560032 |
          | 8867181165 | Bhavika@123 | T-shirts | 560032 |
-         | 8867181165 | Bhavika@123 | women jackets | 560032 |

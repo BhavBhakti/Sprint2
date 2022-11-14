@@ -7,12 +7,13 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 
+
 class login(BaseSettingsPage):
-    def __init__(self,driver):
+    def __init__(self, driver):
         super().__init__(driver)
 
     def fliphome(self):
-        self.driver.get(ConfigReader("base info","URL"))
+        self.driver.get(ConfigReader("base info", "URL"))
 
     def clickclose(self):
         self.DynamicImplicitWait(40)
@@ -22,11 +23,11 @@ class login(BaseSettingsPage):
     def clickloginLink(self):
         self.ClickLinks("loginLink_XPATH")
 
-    def logmobno(self,numberr):
-        self.TypeEditBox("loginMobileNo_XPATH",numberr)
+    def logmobno(self, numberr):
+        self.TypeEditBox("loginMobileNo_XPATH", numberr)
 
-    def logpassword(self,passwordd):
-        self.TypeEditBox("loginpassword_XPATH",passwordd)
+    def logpassword(self, passwordd):
+        self.TypeEditBox("loginpassword_XPATH", passwordd)
 
     def signinbutton(self):
         self.ClickButton("SignInButton_XPATH")

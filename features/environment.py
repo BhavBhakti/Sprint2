@@ -44,3 +44,5 @@ def after_scenario(context, driver):
     time.sleep(3)
     context.driver.quit()
 
+def before_feature(context,step):
+    pass
