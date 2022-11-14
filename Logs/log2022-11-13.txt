@@ -635,3 +635,167 @@
 2022-11-13 20:11:23,499 - ClothProductFeatures.py:[92] - [INFO] - selected a colour
 2022-11-13 20:11:28,653 - ClothProductFeatures.py:[98] - [INFO] - selected a size
 2022-11-13 20:11:38,774 - ClothProductFeatures.py:[103] - [INFO] - Clicked on product details
+2022-11-13 20:19:46,347 - ClothProductFeatures.py:[13] - [INFO] - Navigated to Flipkart website
+2022-11-13 20:20:42,305 - ClothProductFeatures.py:[13] - [INFO] - Navigated to Flipkart website
+2022-11-13 20:20:58,375 - ClothProductFeatures.py:[13] - [INFO] - Navigated to Flipkart website
+2022-11-13 20:21:46,015 - ClothProductFeatures.py:[13] - [INFO] - Navigated to Flipkart website
+2022-11-13 20:21:58,008 - ClothProductFeatures.py:[13] - [INFO] - Navigated to Flipkart website
+2022-11-13 20:25:05,419 - ClothProductFeatures.py:[13] - [INFO] - Navigated to Flipkart website
+2022-11-13 20:25:06,635 - ClothProductFeatures.py:[19] - [INFO] - Closed login window
+2022-11-13 20:25:06,783 - ClothProductFeatures.py:[25] - [INFO] - Clicked on Login Button
+2022-11-13 20:25:06,965 - ClothProductFeatures.py:[30] - [INFO] - Entered mobile number
+2022-11-13 20:25:07,312 - ClothProductFeatures.py:[36] - [INFO] - Entered password
+2022-11-13 20:25:17,460 - ClothProductFeatures.py:[42] - [INFO] - Clicked SignIn button
+2022-11-13 20:25:18,027 - ClothProductFeatures.py:[49] - [INFO] - Entered product to be searched
+2022-11-13 20:25:28,356 - ClothProductFeatures.py:[55] - [INFO] - Clicked on search button
+2022-11-13 20:25:33,878 - ClothProductFeatures.py:[62] - [INFO] - Clicked on product
+2022-11-13 20:25:38,930 - ClothProductFeatures.py:[68] - [INFO] - switched the window
+2022-11-13 20:26:05,975 - ClothProductFeatures.py:[74] - [INFO] - Navigated to front-back images of product
+2022-11-13 20:26:09,306 - ClothProductFeatures.py:[80] - [INFO] - Entered pincode
+2022-11-13 20:26:14,405 - ClothProductFeatures.py:[86] - [INFO] - Clicked on check link
+2022-11-13 20:26:19,881 - ClothProductFeatures.py:[92] - [INFO] - selected a colour
+2022-11-13 20:26:25,653 - ClothProductFeatures.py:[98] - [INFO] - selected a size
+2022-11-13 20:26:36,510 - ClothProductFeatures.py:[103] - [INFO] - Clicked on product details
+2022-11-13 20:26:41,718 - ClothProductFeatures.py:[109] - [INFO] - Clicked on add to cart button
+2022-11-13 20:26:46,796 - ClothProductFeatures.py:[114] - [INFO] - Verified place order button
+2022-11-13 20:27:58,545 - ClothProductFeatures.py:[13] - [INFO] - Navigated to Flipkart website
+2022-11-13 20:27:59,910 - ClothProductFeatures.py:[19] - [INFO] - Closed login window
+2022-11-13 20:28:00,277 - ClothProductFeatures.py:[25] - [INFO] - Clicked on Login Button
+2022-11-13 20:28:00,706 - ClothProductFeatures.py:[30] - [INFO] - Entered mobile number
+2022-11-13 20:28:01,049 - ClothProductFeatures.py:[36] - [INFO] - Entered password
+2022-11-13 20:28:11,333 - ClothProductFeatures.py:[42] - [INFO] - Clicked SignIn button
+2022-11-13 20:28:12,005 - ClothProductFeatures.py:[49] - [INFO] - Entered product to be searched
+2022-11-13 20:28:22,400 - ClothProductFeatures.py:[55] - [INFO] - Clicked on search button
+2022-11-13 20:28:27,982 - ClothProductFeatures.py:[62] - [INFO] - Clicked on product
+2022-11-13 20:28:33,042 - ClothProductFeatures.py:[68] - [INFO] - switched the window
+2022-11-13 20:28:58,619 - ClothProductFeatures.py:[74] - [INFO] - Navigated to front-back images of product
+2022-11-13 20:29:01,803 - ClothProductFeatures.py:[80] - [INFO] - Entered pincode
+2022-11-13 20:29:07,088 - ClothProductFeatures.py:[86] - [INFO] - Clicked on check link
+2022-11-13 20:29:12,294 - ClothProductFeatures.py:[92] - [INFO] - selected a colour
+2022-11-13 20:29:17,499 - ClothProductFeatures.py:[98] - [INFO] - selected a size
+2022-11-13 20:29:27,704 - ClothProductFeatures.py:[103] - [INFO] - Clicked on product details
+2022-11-13 20:29:32,859 - ClothProductFeatures.py:[109] - [INFO] - Clicked on add to cart button
+2022-11-13 20:29:37,932 - ClothProductFeatures.py:[114] - [INFO] - Verified place order button
+2022-11-13 20:30:36,013 - ClothProductFeatures.py:[13] - [INFO] - Navigated to Flipkart website
+2022-11-13 20:30:37,177 - ClothProductFeatures.py:[19] - [INFO] - Closed login window
+2022-11-13 20:30:37,331 - ClothProductFeatures.py:[25] - [INFO] - Clicked on Login Button
+2022-11-13 20:30:37,625 - ClothProductFeatures.py:[30] - [INFO] - Entered mobile number
+2022-11-13 20:30:37,879 - ClothProductFeatures.py:[36] - [INFO] - Entered password
+2022-11-13 20:30:48,012 - ClothProductFeatures.py:[42] - [INFO] - Clicked SignIn button
+2022-11-13 20:30:48,312 - ClothProductFeatures.py:[49] - [INFO] - Entered product to be searched
+2022-11-13 20:30:58,477 - ClothProductFeatures.py:[55] - [INFO] - Clicked on search button
+2022-11-13 20:31:03,852 - ClothProductFeatures.py:[62] - [INFO] - Clicked on product
+2022-11-13 20:31:08,982 - ClothProductFeatures.py:[68] - [INFO] - switched the window
+2022-11-13 20:31:34,388 - ClothProductFeatures.py:[74] - [INFO] - Navigated to front-back images of product
+2022-11-13 20:31:37,556 - ClothProductFeatures.py:[80] - [INFO] - Entered pincode
+2022-11-13 20:31:42,667 - ClothProductFeatures.py:[86] - [INFO] - Clicked on check link
+2022-11-13 20:32:27,688 - ClothProductFeatures.py:[92] - [INFO] - selected a colour
+2022-11-13 20:32:32,892 - ClothProductFeatures.py:[98] - [INFO] - selected a size
+2022-11-13 20:32:43,118 - ClothProductFeatures.py:[103] - [INFO] - Clicked on product details
+2022-11-13 20:32:48,259 - ClothProductFeatures.py:[109] - [INFO] - Clicked on add to cart button
+2022-11-13 20:36:03,255 - ClothProductFeatures.py:[13] - [INFO] - Navigated to Flipkart website
+2022-11-13 20:36:04,727 - ClothProductFeatures.py:[19] - [INFO] - Closed login window
+2022-11-13 20:36:05,753 - ClothProductFeatures.py:[25] - [INFO] - Clicked on Login Button
+2022-11-13 20:36:06,342 - ClothProductFeatures.py:[30] - [INFO] - Entered mobile number
+2022-11-13 20:36:06,767 - ClothProductFeatures.py:[36] - [INFO] - Entered password
+2022-11-13 20:36:17,012 - ClothProductFeatures.py:[42] - [INFO] - Clicked SignIn button
+2022-11-13 20:36:17,309 - ClothProductFeatures.py:[49] - [INFO] - Entered product to be searched
+2022-11-13 20:36:27,468 - ClothProductFeatures.py:[55] - [INFO] - Clicked on search button
+2022-11-13 20:36:32,749 - ClothProductFeatures.py:[62] - [INFO] - Clicked on product
+2022-11-13 20:36:38,739 - ClothProductFeatures.py:[68] - [INFO] - switched the window
+2022-11-13 20:37:04,331 - ClothProductFeatures.py:[74] - [INFO] - Navigated to front-back images of product
+2022-11-13 20:37:07,567 - ClothProductFeatures.py:[80] - [INFO] - Entered pincode
+2022-11-13 20:37:12,859 - ClothProductFeatures.py:[86] - [INFO] - Clicked on check link
+2022-11-13 20:37:18,102 - ClothProductFeatures.py:[92] - [INFO] - selected a colour
+2022-11-13 20:37:23,350 - ClothProductFeatures.py:[98] - [INFO] - selected a size
+2022-11-13 20:37:33,924 - ClothProductFeatures.py:[103] - [INFO] - Clicked on product details
+2022-11-13 20:37:39,483 - ClothProductFeatures.py:[109] - [INFO] - Clicked on add to cart button
+2022-11-13 20:37:44,607 - ClothProductFeatures.py:[114] - [INFO] - Verified place order button
+2022-11-13 20:38:27,604 - ClothProductFeatures.py:[13] - [INFO] - Navigated to Flipkart website
+2022-11-13 20:38:28,790 - ClothProductFeatures.py:[19] - [INFO] - Closed login window
+2022-11-13 20:38:28,999 - ClothProductFeatures.py:[25] - [INFO] - Clicked on Login Button
+2022-11-13 20:38:29,411 - ClothProductFeatures.py:[30] - [INFO] - Entered mobile number
+2022-11-13 20:38:29,649 - ClothProductFeatures.py:[36] - [INFO] - Entered password
+2022-11-13 20:38:39,745 - ClothProductFeatures.py:[42] - [INFO] - Clicked SignIn button
+2022-11-13 20:38:40,153 - ClothProductFeatures.py:[49] - [INFO] - Entered product to be searched
+2022-11-13 20:38:50,459 - ClothProductFeatures.py:[55] - [INFO] - Clicked on search button
+2022-11-13 20:38:55,790 - ClothProductFeatures.py:[62] - [INFO] - Clicked on product
+2022-11-13 20:39:00,817 - ClothProductFeatures.py:[68] - [INFO] - switched the window
+2022-11-13 20:39:22,006 - ClothProductFeatures.py:[74] - [INFO] - Navigated to front-back images of product
+2022-11-13 20:39:25,272 - ClothProductFeatures.py:[80] - [INFO] - Entered pincode
+2022-11-13 20:39:30,347 - ClothProductFeatures.py:[86] - [INFO] - Clicked on check link
+2022-11-13 20:39:36,435 - ClothProductFeatures.py:[92] - [INFO] - selected a colour
+2022-11-13 20:39:41,597 - ClothProductFeatures.py:[98] - [INFO] - selected a size
+2022-11-13 20:39:51,741 - ClothProductFeatures.py:[103] - [INFO] - Clicked on product details
+2022-11-13 20:41:07,810 - ClothProductFeatures.py:[13] - [INFO] - Navigated to Flipkart website
+2022-11-13 20:41:09,013 - ClothProductFeatures.py:[19] - [INFO] - Closed login window
+2022-11-13 20:41:09,211 - ClothProductFeatures.py:[25] - [INFO] - Clicked on Login Button
+2022-11-13 20:41:09,401 - ClothProductFeatures.py:[30] - [INFO] - Entered mobile number
+2022-11-13 20:41:09,557 - ClothProductFeatures.py:[36] - [INFO] - Entered password
+2022-11-13 20:41:19,646 - ClothProductFeatures.py:[42] - [INFO] - Clicked SignIn button
+2022-11-13 20:41:19,934 - ClothProductFeatures.py:[49] - [INFO] - Entered product to be searched
+2022-11-13 20:41:30,030 - ClothProductFeatures.py:[55] - [INFO] - Clicked on search button
+2022-11-13 20:41:35,364 - ClothProductFeatures.py:[62] - [INFO] - Clicked on product
+2022-11-13 20:41:40,389 - ClothProductFeatures.py:[68] - [INFO] - switched the window
+2022-11-13 20:42:01,883 - ClothProductFeatures.py:[74] - [INFO] - Navigated to front-back images of product
+2022-11-13 20:42:05,088 - ClothProductFeatures.py:[80] - [INFO] - Entered pincode
+2022-11-13 20:42:10,191 - ClothProductFeatures.py:[86] - [INFO] - Clicked on check link
+2022-11-13 20:42:55,261 - ClothProductFeatures.py:[92] - [INFO] - selected a colour
+2022-11-13 20:43:00,429 - ClothProductFeatures.py:[98] - [INFO] - selected a size
+2022-11-13 20:43:10,630 - ClothProductFeatures.py:[103] - [INFO] - Clicked on product details
+2022-11-13 20:43:15,772 - ClothProductFeatures.py:[109] - [INFO] - Clicked on add to cart button
+2022-11-13 20:43:20,851 - ClothProductFeatures.py:[114] - [INFO] - Verified place order button
+2022-11-13 20:44:13,593 - ClothProductFeatures.py:[13] - [INFO] - Navigated to Flipkart website
+2022-11-13 20:44:14,719 - ClothProductFeatures.py:[19] - [INFO] - Closed login window
+2022-11-13 20:44:14,794 - ClothProductFeatures.py:[25] - [INFO] - Clicked on Login Button
+2022-11-13 20:44:14,934 - ClothProductFeatures.py:[30] - [INFO] - Entered mobile number
+2022-11-13 20:44:15,137 - ClothProductFeatures.py:[36] - [INFO] - Entered password
+2022-11-13 20:44:25,219 - ClothProductFeatures.py:[42] - [INFO] - Clicked SignIn button
+2022-11-13 20:44:25,463 - ClothProductFeatures.py:[49] - [INFO] - Entered product to be searched
+2022-11-13 20:44:35,558 - ClothProductFeatures.py:[55] - [INFO] - Clicked on search button
+2022-11-13 20:44:40,821 - ClothProductFeatures.py:[62] - [INFO] - Clicked on product
+2022-11-13 20:44:45,917 - ClothProductFeatures.py:[68] - [INFO] - switched the window
+2022-11-13 20:45:11,349 - ClothProductFeatures.py:[74] - [INFO] - Navigated to front-back images of product
+2022-11-13 20:45:14,473 - ClothProductFeatures.py:[80] - [INFO] - Entered pincode
+2022-11-13 20:45:19,561 - ClothProductFeatures.py:[86] - [INFO] - Clicked on check link
+2022-11-13 20:45:25,290 - ClothProductFeatures.py:[92] - [INFO] - selected a colour
+2022-11-13 20:45:30,448 - ClothProductFeatures.py:[98] - [INFO] - selected a size
+2022-11-13 20:45:40,627 - ClothProductFeatures.py:[103] - [INFO] - Clicked on product details
+2022-11-13 20:45:45,750 - ClothProductFeatures.py:[109] - [INFO] - Clicked on add to cart button
+2022-11-13 20:45:50,821 - ClothProductFeatures.py:[114] - [INFO] - Verified place order button
+2022-11-13 20:46:47,371 - ClothProductFeatures.py:[13] - [INFO] - Navigated to Flipkart website
+2022-11-13 20:46:48,555 - ClothProductFeatures.py:[19] - [INFO] - Closed login window
+2022-11-13 20:46:48,697 - ClothProductFeatures.py:[25] - [INFO] - Clicked on Login Button
+2022-11-13 20:46:48,868 - ClothProductFeatures.py:[30] - [INFO] - Entered mobile number
+2022-11-13 20:46:49,163 - ClothProductFeatures.py:[36] - [INFO] - Entered password
+2022-11-13 20:46:59,237 - ClothProductFeatures.py:[42] - [INFO] - Clicked SignIn button
+2022-11-13 20:46:59,447 - ClothProductFeatures.py:[49] - [INFO] - Entered product to be searched
+2022-11-13 20:47:09,576 - ClothProductFeatures.py:[55] - [INFO] - Clicked on search button
+2022-11-13 20:47:16,000 - ClothProductFeatures.py:[62] - [INFO] - Clicked on product
+2022-11-13 20:47:21,033 - ClothProductFeatures.py:[68] - [INFO] - switched the window
+2022-11-13 20:47:33,599 - ClothProductFeatures.py:[74] - [INFO] - Navigated to front-back images of product
+2022-11-13 20:47:36,864 - ClothProductFeatures.py:[80] - [INFO] - Entered pincode
+2022-11-13 20:47:42,004 - ClothProductFeatures.py:[86] - [INFO] - Clicked on check link
+2022-11-13 20:47:47,744 - ClothProductFeatures.py:[92] - [INFO] - selected a colour
+2022-11-13 20:47:52,884 - ClothProductFeatures.py:[98] - [INFO] - selected a size
+2022-11-13 20:48:03,066 - ClothProductFeatures.py:[103] - [INFO] - Clicked on product details
+2022-11-13 20:48:08,214 - ClothProductFeatures.py:[109] - [INFO] - Clicked on add to cart button
+2022-11-13 20:48:13,294 - ClothProductFeatures.py:[114] - [INFO] - Verified place order button
+2022-11-13 20:49:09,590 - ClothProductFeatures.py:[13] - [INFO] - Navigated to Flipkart website
+2022-11-13 20:49:10,784 - ClothProductFeatures.py:[19] - [INFO] - Closed login window
+2022-11-13 20:49:10,990 - ClothProductFeatures.py:[25] - [INFO] - Clicked on Login Button
+2022-11-13 20:49:11,283 - ClothProductFeatures.py:[30] - [INFO] - Entered mobile number
+2022-11-13 20:49:11,432 - ClothProductFeatures.py:[36] - [INFO] - Entered password
+2022-11-13 20:49:21,539 - ClothProductFeatures.py:[42] - [INFO] - Clicked SignIn button
+2022-11-13 20:49:21,802 - ClothProductFeatures.py:[49] - [INFO] - Entered product to be searched
+2022-11-13 20:49:31,949 - ClothProductFeatures.py:[55] - [INFO] - Clicked on search button
+2022-11-13 20:49:37,344 - ClothProductFeatures.py:[62] - [INFO] - Clicked on product
+2022-11-13 20:49:42,399 - ClothProductFeatures.py:[68] - [INFO] - switched the window
+2022-11-13 20:50:10,454 - ClothProductFeatures.py:[74] - [INFO] - Navigated to front-back images of product
+2022-11-13 20:50:13,664 - ClothProductFeatures.py:[80] - [INFO] - Entered pincode
+2022-11-13 20:50:18,804 - ClothProductFeatures.py:[86] - [INFO] - Clicked on check link
+2022-11-13 20:50:23,994 - ClothProductFeatures.py:[92] - [INFO] - selected a colour
+2022-11-13 20:50:29,154 - ClothProductFeatures.py:[98] - [INFO] - selected a size
+2022-11-13 20:50:39,348 - ClothProductFeatures.py:[103] - [INFO] - Clicked on product details
+2022-11-13 20:50:44,500 - ClothProductFeatures.py:[109] - [INFO] - Clicked on add to cart button
+2022-11-13 20:50:49,565 - ClothProductFeatures.py:[114] - [INFO] - Verified place order button
